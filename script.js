@@ -11,6 +11,7 @@ function staticLoadPlaces() {
     return [
         {
             name: 'Pokèmon',
+            
             location: {
                 // decomment the following and add coordinates:
                 lat: 35.561722,
